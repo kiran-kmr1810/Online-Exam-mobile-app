@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798550152786",
+    "firebase_url": "https://online-exam-7e37a.firebaseio.com",
+    "project_id": "online-exam-7e37a",
+    "storage_bucket": "online-exam-7e37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798550152786:android:850d46a3a9f7e08f77f18b",
+        "android_client_info": {
+          "package_name": "com.dbms.onlineexamsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798550152786-fuo4u9cthubflvejialsei9081h9eft4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDqEc3KV9pvhXb6NnCUyRLPJp-FOL48yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798550152786-fuo4u9cthubflvejialsei9081h9eft4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
